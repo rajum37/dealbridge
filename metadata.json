@@ -1,0 +1,6 @@
+{
+  "name": "DealBridge AI",
+  "description": "AI-powered inbound lead qualification and smart routing powered by Aicoo Pulse API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
